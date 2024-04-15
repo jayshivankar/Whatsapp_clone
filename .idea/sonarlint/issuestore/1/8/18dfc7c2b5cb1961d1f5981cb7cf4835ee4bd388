@@ -1,2 +1,4 @@
 
-kotlin:S101	"RRename class "Signup_activity" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(…ã·ËJ$938724c2-80da-4ea7-a1f9-30e5b58292c2
+_kotlin:S1128"Remove this unused import.(„œÊÖ8îüØ‘î1J$e9f6158e-e594-4b93-8b69-4e00c641e70c
+dkotlin:S1128"Remove this unused import.(Ôâôüÿÿÿÿ8îüØ‘î1J$6948412b-b8c4-48f5-81f8-855c43da4bfe
+–kotlin:S101	"RRename class "Signup_activity" to match the regular expression ^[A-Z][a-zA-Z0-9]*$(…ã·Ë8ğüØ‘î1J$3ee8b6fb-9823-44ee-acbb-4f1d5ec4f7d3
